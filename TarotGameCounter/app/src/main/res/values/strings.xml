@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tarot Game Counter</string>
+    <string name="taker">Taker</string>
+    <string name="Start_Value">0</string>
+    <string name="defenders">Defenders</string>
+    <string name="reset">Reset</string>
+    <string name="king">King</string>
+    <string name="queen">Queen</string>
+    <string name="knight">Knight</string>
+    <string name="jack">Jack</string>
+    <string name="bout">Bout</string>
+    <string name="card">Card</string>
+    <string name="petit_au_bout">Petit au Bout</string>
+</resources>
